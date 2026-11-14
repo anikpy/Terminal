@@ -1,0 +1,6 @@
+{
+  "name": "Easy Terminal",
+  "description": "Mobile SSH client for managing VPS hosts with multi-tab terminal sessions, encrypted local SSH key management, command snippets, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

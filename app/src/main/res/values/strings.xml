@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy Terminal</string>
+    <string name="nav_hosts">Hosts</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_keys">Keys</string>
+    <string name="nav_history">History</string>
+    <string name="action_quick_connect">Quick Connect</string>
+    <string name="action_add_host">Add Host</string>
+    <string name="action_generate_key">Generate Key</string>
+    <string name="action_import_key">Import Key</string>
+    <string name="action_snippets">Snippets</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_hosts_title">No VPS Hosts Saved</string>
+    <string name="empty_hosts_subtitle">Add a server profile or launch Quick Connect to open an encrypted SSH shell.</string>
+    <string name="empty_keys_title">Your SSH Key Vault Is Empty</string>
+    <string name="empty_keys_subtitle">Generate an Ed25519 or RSA-4096 key pair on-device, or import an existing PEM or OpenSSH private key.</string>
+    <string name="empty_history_title">No Session History Yet</string>
+    <string name="empty_history_subtitle">Completed, disconnected, and failed SSH sessions appear here for quick reconnect and inspection.</string>
+    <string name="empty_terminal_title">No Active SSH Tabs</string>
+    <string name="empty_terminal_subtitle">Connect to a saved VPS host or start a Quick Connect session to launch a multi-tab terminal.</string>
+</resources>
